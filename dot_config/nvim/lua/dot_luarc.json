@@ -1,0 +1,10 @@
+{
+    "workspace.library": [
+        "/Users/akondratev/.config/nvim",
+        "/Users/akondratev/.local/share/nvim/lazy/lazy.nvim",
+        "/usr/local/Cellar/neovim/0.9.0/share/nvim/runtime",
+        "/usr/local/Cellar/neovim/0.9.0/lib/nvim",
+        "/Users/akondratev/.local/state/nvim/lazy/readme",
+        "${3rd}/luassert/library"
+    ]
+}
