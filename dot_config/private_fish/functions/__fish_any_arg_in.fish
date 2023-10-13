@@ -1,0 +1,8 @@
+function __fish_any_arg_in
+    set -l haystack $argv
+    for arg in (commandline -opc)
+        contains -- $arg $haystack
+        and return 0
+    end
+    return 1
+end
