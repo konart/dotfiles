@@ -1,0 +1,13 @@
+{{ if eq .chezmoi.os "linux" -}}
+#!/bin/sh
+sudo dnf update
+{{ else if eq .chezmoi.os "darwin" -}}
+#!/bin/sh
+which -s brew
+if [[ $? != 0 ]] ; then
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+else
+    brew update
+fi
+brew bundle
+{{ end -}}
