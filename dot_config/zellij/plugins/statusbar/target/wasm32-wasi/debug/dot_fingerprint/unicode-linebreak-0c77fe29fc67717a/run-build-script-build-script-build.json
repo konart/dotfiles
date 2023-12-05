@@ -1,1 +1,0 @@
-{"rustc":16505316612848540575,"features":"","target":0,"profile":0,"path":0,"deps":[[9895030543256154542,"build_script_build",false,2245827869715590749]],"local":[{"RerunIfChanged":{"output":"wasm32-wasi/debug/build/unicode-linebreak-0c77fe29fc67717a/output","paths":["LineBreak.txt"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
