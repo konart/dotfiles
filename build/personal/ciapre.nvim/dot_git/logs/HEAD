@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 b317abc0225c2dadbc06abdfcc38852d1a8e3b4b akondratev <post@konart.me> 1618727670 +0300	commit (initial): init
+b317abc0225c2dadbc06abdfcc38852d1a8e3b4b a5ed9bbbc7f6e83e0eed043c07a31c41f582b27e akondratev <post@konart.me> 1619691061 +0300	commit: feat: added IndentBlankline highlight groups
+a5ed9bbbc7f6e83e0eed043c07a31c41f582b27e e220aaa758c28ade51303f492b3d04dd617981b9 akondratev <post@konart.me> 1619691300 +0300	commit: fix: make indentBlankline highlight groups darker
+e220aaa758c28ade51303f492b3d04dd617981b9 4e8db73178b5222077317d17c9a5675d437c4851 akondratev <post@konart.me> 1619730595 +0300	commit: test
+4e8db73178b5222077317d17c9a5675d437c4851 d87030ed632a8fc4a613ef80d2a4566ce0f57ed4 akondratev <post@konart.me> 1619730717 +0300	commit: sadfs
+d87030ed632a8fc4a613ef80d2a4566ce0f57ed4 ba3f604beab523f2bb231aca6dd37a6a73eca59a akondratev <post@konart.me> 1620631682 +0300	commit: aaa
+ba3f604beab523f2bb231aca6dd37a6a73eca59a eac29ea1dd3623e37064ee9b3cc3bdbcac81a319 akondratev <post@konart.me> 1622317293 +0300	commit: sdfsf
+eac29ea1dd3623e37064ee9b3cc3bdbcac81a319 eac29ea1dd3623e37064ee9b3cc3bdbcac81a319 akondratev <post@konart.me> 1622317346 +0300	rebase (abort): updating HEAD
+eac29ea1dd3623e37064ee9b3cc3bdbcac81a319 eac29ea1dd3623e37064ee9b3cc3bdbcac81a319 akondratev <post@konart.me> 1622317346 +0300	rebase (abort): updating HEAD
+eac29ea1dd3623e37064ee9b3cc3bdbcac81a319 e220aaa758c28ade51303f492b3d04dd617981b9 akondratev <post@konart.me> 1622317383 +0300	rebase (start): checkout HEAD~5
+e220aaa758c28ade51303f492b3d04dd617981b9 4e8db73178b5222077317d17c9a5675d437c4851 akondratev <post@konart.me> 1622317383 +0300	rebase: fast-forward
+4e8db73178b5222077317d17c9a5675d437c4851 20cca6c2d9f743ba489034d960602ca8abb69cbb akondratev <post@konart.me> 1622317383 +0300	rebase (reword): Latest changes
+20cca6c2d9f743ba489034d960602ca8abb69cbb f8a8992790159535c16185de2f35b90bcec82253 akondratev <post@konart.me> 1622317397 +0300	rebase (squash): # This is a combination of 2 commits.
+f8a8992790159535c16185de2f35b90bcec82253 aac6ec9e1ae5e173c5a3b7f51506ab324a42e73d akondratev <post@konart.me> 1622317397 +0300	rebase (squash): # This is a combination of 3 commits.
+aac6ec9e1ae5e173c5a3b7f51506ab324a42e73d b4801943770cf311f205e9017ed23c11ee52852f akondratev <post@konart.me> 1622317397 +0300	rebase (squash): Latest changes
+b4801943770cf311f205e9017ed23c11ee52852f b4801943770cf311f205e9017ed23c11ee52852f akondratev <post@konart.me> 1622317397 +0300	rebase (finish): returning to refs/heads/main
+b4801943770cf311f205e9017ed23c11ee52852f b4801943770cf311f205e9017ed23c11ee52852f akondratev <post@konart.me> 1622317492 +0300	checkout: moving from main to neovim

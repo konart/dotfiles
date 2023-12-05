@@ -1,0 +1,19 @@
+# This is a combination of 4 commits.
+# This is the 1st commit message:
+
+Latest changes
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Fri Apr 30 00:09:55 2021 +0300
+#
+# interactive rebase in progress; onto a5ed9bb
+# Last commands done (5 commands done):
+#    squash ba3f604 aaa
+#    squash eac29ea sdfsf
+# No commands remaining.
+# You are currently rebasing branch 'main' on 'a5ed9bb'.
+#
+# Changes to be committed:
+#	modified:   colors/ciapre.vim
+#
