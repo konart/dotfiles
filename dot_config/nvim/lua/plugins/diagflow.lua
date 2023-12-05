@@ -1,6 +1,8 @@
 return {
 	"dgagn/diagflow.nvim",
-	enabled = false,
-	event = { "BufReadPre", "BufNewFile" },
-	config = true,
+	event = { "LspAttach" },
+	opts = {
+		show_borders = true,
+		scope = "line",
+	},
 }

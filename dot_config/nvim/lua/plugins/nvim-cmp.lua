@@ -92,7 +92,7 @@ return {
 				{ name = "path" },
 				{ name = "buffer" },
 				{ name = "nvim_lua" },
-				{ name = "luasnip" },
+				-- { name = "luasnip" },
 			},
 			experimental = {
 				ghost_text = true,
