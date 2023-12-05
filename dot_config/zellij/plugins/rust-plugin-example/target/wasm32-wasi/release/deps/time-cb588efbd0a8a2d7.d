@@ -1,0 +1,11 @@
+/Users/akondratev/.config/zellij/plugins/rust-plugin-example/target/wasm32-wasi/release/deps/time-cb588efbd0a8a2d7.rmeta: /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/lib.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/display.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/duration.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/parse.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/sys.rs
+
+/Users/akondratev/.config/zellij/plugins/rust-plugin-example/target/wasm32-wasi/release/deps/libtime-cb588efbd0a8a2d7.rlib: /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/lib.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/display.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/duration.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/parse.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/sys.rs
+
+/Users/akondratev/.config/zellij/plugins/rust-plugin-example/target/wasm32-wasi/release/deps/time-cb588efbd0a8a2d7.d: /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/lib.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/display.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/duration.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/parse.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/sys.rs
+
+/Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/lib.rs:
+/Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/display.rs:
+/Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/duration.rs:
+/Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/parse.rs:
+/Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.44/src/sys.rs:

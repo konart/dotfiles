@@ -1,0 +1,9 @@
+/Users/akondratev/.config/zellij/plugins/statusbar/target/wasm32-wasi/debug/deps/concurrent_queue-a2f14f00f0d19f96.rmeta: /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/lib.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/bounded.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/single.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/unbounded.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/sync.rs
+
+/Users/akondratev/.config/zellij/plugins/statusbar/target/wasm32-wasi/debug/deps/concurrent_queue-a2f14f00f0d19f96.d: /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/lib.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/bounded.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/single.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/unbounded.rs /Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/sync.rs
+
+/Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/lib.rs:
+/Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/bounded.rs:
+/Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/single.rs:
+/Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/unbounded.rs:
+/Users/akondratev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concurrent-queue-2.2.0/src/sync.rs:
